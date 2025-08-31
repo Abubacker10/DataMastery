@@ -11,6 +11,6 @@ class State:
     plots : str
     results : list
 class Pipeline:
-    def invoke(state:State):
+    def invoke(state:State, query):
         return state
         pass

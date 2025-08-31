@@ -1,6 +1,6 @@
 from collections import defaultdict
 from typing import List, Dict, Any, Optional
-from  datamastery.pipeline.pipeline import Pipeline 
+from  pipeline.pipeline import Pipeline 
 
 
 class QueryHistory:
